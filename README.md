@@ -1,5 +1,3 @@
-![Believe in Yourself](https://raw.githubusercontent.com/Shubhamraut9497/Shubhamraut9497/main/believe%20in%20yourself%20(1).png)
-
 <h1 align="center">Hi 👋, I'm Prashant Jadhao</h1>
 <h3 align="center">iOS Developer | Swift • UIKit • MVVM • XCTest</h3>
 
