@@ -1,8 +1,5 @@
 
 ![iOS Developer](https://raw.githubusercontent.com/prashantjadhao27/prashantjadhao27/main/gamechanger.png)
-
-
-
 <h1 align="center">Hi 👋, I'm Prashant Jadhao</h1>
 <h3 align="center">iOS Developer | Swift • UIKit • MVVM • XCTest</h3>
 
